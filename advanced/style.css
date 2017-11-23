@@ -20,22 +20,23 @@ header {text-align: center;
 			margin-bottom: 10px;
 			}
 
-.column {width: 31%;
-		text-align: center;
-		padding: 10px;
-		background-color: lightgrey;
-		display: inline-block;
-		margin-right: 1%;
+.wrapper {
+	text-align:center;
+	display: table;
+    width: 100%;
+}
 
+.box {
+	text-align: center;
+	padding: 10px;
+	background-color: lightgrey;
+    display: table-cell;
+}
 
-		 }
-
-.columns {white-space:nowrap;
-			text-align:center;
-
-
-		}
-
+.middle{
+	display: table-cell;
+    width: 3%;
+}
 
 .copyright {background-color:lightgrey;
 			text-align:center;
