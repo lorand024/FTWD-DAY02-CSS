@@ -1,0 +1,31 @@
+﻿.container { width: 800px;	
+			padding: 0px 50px;
+			margin: auto;
+			box-shadow: 0px 3px 10px ; }
+
+p {color: #707070;}
+
+li {color: #707070;
+	padding: 5px;}			 			
+
+header {text-align: center;}
+
+
+h1 {color: #DB0038;}
+
+h2 {color: #3998A3;}
+
+h3 {color: #474747;}
+
+
+.hero { background-color: #f4f4f4;
+		text-align: center;
+		padding-bottom: 10px; }
+
+.rating span { color:  #F4B400;
+		font-size: 25px;}
+
+footer {text-align: center;}
+
+* {font-family: "Times New Roman";
+		font-style: normal;}
