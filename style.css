@@ -1,7 +1,9 @@
 ﻿.container { width: 800px;	
 			padding: 0px 50px;
 			margin: auto;
-			box-shadow: 0px 3px 10px ; }
+			box-shadow: 0px 3px 10px; 
+			font-family: "Droid Serif";
+		}
 
 p {color: #707070;}
 
@@ -27,5 +29,3 @@ h3 {color: #474747;}
 
 footer {text-align: center;}
 
-* {font-family: "Times New Roman";
-		font-style: normal;}
